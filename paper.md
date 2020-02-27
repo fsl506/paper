@@ -1,6 +1,6 @@
 # Title 
 
-Ageing of biomass burning aerosols over West Africa
+Aircraft measurements of biomass buring aerosols in West Africa
 
 # Author
 Frances Livera
