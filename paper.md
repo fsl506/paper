@@ -3,8 +3,8 @@
 Aircraft measurements and simulations of aerosols in Africa
 
 # Author
-Frances Livera, UoS
 John Smith, UoM
+Frances Livera, UoS
 
 
 #Introduction
