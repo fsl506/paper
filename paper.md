@@ -1,14 +1,19 @@
 # Title 
 
-Aircraft measurements of biomass buring aerosols in West Africa
+Aircraft measurements and simulations of aerosols in Africa
 
 # Author
 Frances Livera
+John Smith
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa
 Particle size was measured using PCASP (Bloggs et al 2004)
 Jones et al (1998), conducted several studies in this region but continental scale measurements have not previously been made.
 
+
 #Motivation
 Find out more about this important phenomenon.
+
+#Simulations
+We simulate the evolution of particle sizes as they are transported away from the source region 
