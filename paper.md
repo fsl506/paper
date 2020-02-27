@@ -3,8 +3,9 @@
 Aircraft measurements and simulations of aerosols in Africa
 
 # Author
-Frances Livera
-John Smith
+Frances Livera, UoS
+John Smith, UoM
+
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa
