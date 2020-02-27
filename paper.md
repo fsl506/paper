@@ -4,6 +4,7 @@ Ageing of biomass burning aerosols over West Africa
 
 # Author
 Frances Livera
+John Smith
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa
